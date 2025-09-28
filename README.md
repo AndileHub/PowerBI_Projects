@@ -47,4 +47,11 @@ Both datasets were provided in **Excel** and transformed in **Power BI** to buil
 
 ---
 
-## 📂 Project Structure  
+## 🛠️ Tools & Technologies  
+- [Power BI Desktop](https://powerbi.microsoft.com/desktop/)  
+- Power Query (data cleaning & transformation)  
+- DAX (calculated columns, measures)  
+- Excel (source datasets)  
+
+
+
